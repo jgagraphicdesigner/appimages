@@ -4,6 +4,8 @@ Five separately organised landing pages, based on the existing APP landing-page 
 
 ## Start here
 
+For GoHighLevel, open **GHL-READY/START-HERE.html**. It provides the eight deployment snippets, page destination settings, copy buttons and native checkout instructions for all five pages.
+
 Open **index.html** for a five-page preview directory. Every page folder has its own browser preview, GHL paste-ready file(s), page-specific assets folder and image map. Preview navigation is excluded from the GHL files.
 
 | Folder | Purpose | Existing live path |

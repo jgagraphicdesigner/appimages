@@ -3,6 +3,7 @@
 The finished HTML files work without installing anything. These files are for future design changes.
 
 - **build.cjs**: page copy, structure, links, offers and GHL fragment generation.
+- **build-ghl-kit.cjs**: deployment snippets and the GHL copy-and-paste installer.
 - **campaign.css**: styles before campaign scoping.
 - **campaign.js**: animations, internal links and the calendar event handler.
 - **assets.json**: hosted images and fonts.

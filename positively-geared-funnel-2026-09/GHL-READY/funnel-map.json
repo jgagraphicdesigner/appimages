@@ -1,0 +1,42 @@
+[
+  {
+    "folder": "01-free-book",
+    "name": "Free book",
+    "slug": "freebestsellingbook",
+    "price": "$0 book + $9 postage",
+    "native": true,
+    "next": "discoverycallwithlloyd"
+  },
+  {
+    "folder": "02-discovery-call",
+    "name": "Free discovery call",
+    "slug": "discoverycallwithlloyd",
+    "price": "Complimentary",
+    "native": false,
+    "next": "suprisegift"
+  },
+  {
+    "folder": "03-surprise-gift",
+    "name": "Surprise gift",
+    "slug": "suprisegift",
+    "price": "$7 gift bundle",
+    "native": true,
+    "next": "strategycallwithlloyd"
+  },
+  {
+    "folder": "04-strategy-session",
+    "name": "Strategy session",
+    "slug": "strategycallwithlloyd",
+    "price": "$1,697 AUD",
+    "native": true,
+    "next": "congratulations-page"
+  },
+  {
+    "folder": "05-congratulations",
+    "name": "Congratulations",
+    "slug": "congratulations-page",
+    "price": "Confirmation page",
+    "native": false,
+    "next": null
+  }
+]

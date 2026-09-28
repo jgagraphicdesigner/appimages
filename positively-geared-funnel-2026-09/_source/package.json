@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "build": "node build.cjs"
+    "build": "node build.cjs && node build-ghl-kit.cjs"
   },
   "dependencies": {
     "cssom": "0.5.0",

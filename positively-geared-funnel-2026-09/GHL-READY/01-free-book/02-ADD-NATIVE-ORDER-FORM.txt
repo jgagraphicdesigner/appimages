@@ -1,0 +1,3 @@
+Attach the one-book offer and its $9 postage charge. Add the Property Intelligence Guide as an optional bump only after its price is confirmed. Leave the bump unchecked. Require contact and shipping details. Configure the receipt, printed-book fulfilment and PDF delivery workflow.
+
+This is an instruction, not code to paste. Add the native GHL order form between files 01 and 03. See SETUP.md.
