@@ -15,7 +15,7 @@ Use **/discoverycallwithlloyd** on **www.auspropertyprofessionals-invest.com.au*
 
 ## Installation
 
-Use full-width sections and one-column rows with zero padding/margins and no fixed maximum width. Set page background to #fffdf7 and set the page title to “Your Free Discovery Call | Lloyd Edge”. Do not paste index.html into GHL; it includes preview-only controls.
+Use full-width sections and one-column rows with zero padding/margins and no fixed maximum width. Set page background to #ffffff and set the page title to “Your Free Discovery Call | Lloyd Edge”. Do not paste index.html into GHL; it includes preview-only controls.
 
 The existing Calendly URL has been reused from the supplied discovery page. Verify it still represents the intended free call, host, duration, availability and routing. No appointment was booked during this build.
 

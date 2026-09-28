@@ -52,7 +52,7 @@ The main book page uses the Morning Show YouTube interview already selected for 
 
 ## Design and behaviour
 
-Book yellow #ffca05, charcoal #211e20, white and light paper backgrounds. Original APP logo colours are preserved. Actual supplied book/portrait images are used. Two media-logo rows and the award strip move continuously, pause on hover/focus, and become manually scrollable for reduced motion. Entrance animations progressively enhance already-visible content. Native video controls support inline/mobile playback. No invented scarcity, unverified investment guarantees or fabricated book reviews are added. The client testimonial section is clearly labelled as service reviews.
+Page and panel backgrounds use only book yellow #ffca05 and white #ffffff. Charcoal #211e20 is used for readable text and fine borders. Original APP logo colours are preserved. Actual supplied book/portrait images are used. Two media-logo rows and the award strip move continuously, pause on hover/focus, and become manually scrollable for reduced motion. Entrance animations progressively enhance already-visible content. Native video controls support inline/mobile playback. No invented scarcity, unverified investment guarantees or fabricated book reviews are added. The client testimonial section is clearly labelled as service reviews.
 
 ## Sources
 

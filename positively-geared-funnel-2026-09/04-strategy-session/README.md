@@ -16,7 +16,7 @@ Use **/strategycallwithlloyd** on **www.auspropertyprofessionals-invest.com.au**
 
 ## Installation
 
-Use full-width sections and one-column rows with zero padding/margins and no fixed maximum width. Set page background to #fffdf7 and set the page title to “Your Next Move Strategy Session | Lloyd Edge”. Do not paste index.html into GHL; it includes preview-only controls.
+Use full-width sections and one-column rows with zero padding/margins and no fixed maximum width. Set page background to #ffffff and set the page title to “Your Next Move Strategy Session | Lloyd Edge”. Do not paste index.html into GHL; it includes preview-only controls.
 
 1. Add the BEFORE HTML block.
 2. Add a native GHL order form in the next full-width section (yellow #ffca05 background; row max-width about 760px).
