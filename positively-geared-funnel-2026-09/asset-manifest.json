@@ -1,0 +1,328 @@
+{
+  "book": {
+    "file": "shared-assets/books/positively-geared-updated.png",
+    "url": "https://raw.githubusercontent.com/jgagraphicdesigner/appimages/main/positively-geared-funnel-2026-09/shared-assets/books/positively-geared-updated.png",
+    "width": 325,
+    "height": 424,
+    "bytes": 118331
+  },
+  "bookArt": {
+    "file": "shared-assets/brand/book-cover-illustration.webp",
+    "url": "https://raw.githubusercontent.com/jgagraphicdesigner/appimages/main/positively-geared-funnel-2026-09/shared-assets/brand/book-cover-illustration.webp",
+    "width": 1440,
+    "height": 718,
+    "bytes": 23672
+  },
+  "logo": {
+    "file": "shared-assets/brand/aus-property-professionals-logo.webp",
+    "url": "https://raw.githubusercontent.com/jgagraphicdesigner/appimages/main/positively-geared-funnel-2026-09/shared-assets/brand/aus-property-professionals-logo.webp",
+    "width": 674,
+    "height": 171,
+    "bytes": 14074
+  },
+  "lloyd": {
+    "file": "shared-assets/people/lloyd-edge-portrait.webp",
+    "url": "https://raw.githubusercontent.com/jgagraphicdesigner/appimages/main/positively-geared-funnel-2026-09/shared-assets/people/lloyd-edge-portrait.webp",
+    "width": 1000,
+    "height": 1424,
+    "bytes": 115244
+  },
+  "guide": {
+    "file": "01-free-book/assets/property-intelligence-guide-2026-cover.webp",
+    "url": "https://raw.githubusercontent.com/jgagraphicdesigner/appimages/main/positively-geared-funnel-2026-09/01-free-book/assets/property-intelligence-guide-2026-cover.webp",
+    "width": 613,
+    "height": 850,
+    "bytes": 55732
+  },
+  "buyNow": {
+    "file": "03-surprise-gift/assets/buy-now-book-cover.webp",
+    "url": "https://raw.githubusercontent.com/jgagraphicdesigner/appimages/main/positively-geared-funnel-2026-09/03-surprise-gift/assets/buy-now-book-cover.webp",
+    "width": 420,
+    "height": 633,
+    "bytes": 22250
+  },
+  "seven": {
+    "file": "shared-assets/media/seven.png",
+    "url": "https://raw.githubusercontent.com/jgagraphicdesigner/appimages/main/positively-geared-funnel-2026-09/shared-assets/media/seven.png",
+    "bytes": 3421
+  },
+  "media02": {
+    "file": "shared-assets/media/9news.png",
+    "url": "https://raw.githubusercontent.com/jgagraphicdesigner/appimages/main/positively-geared-funnel-2026-09/shared-assets/media/9news.png",
+    "bytes": 13212
+  },
+  "media03": {
+    "file": "shared-assets/media/studio-10.png",
+    "url": "https://raw.githubusercontent.com/jgagraphicdesigner/appimages/main/positively-geared-funnel-2026-09/shared-assets/media/studio-10.png",
+    "bytes": 53675
+  },
+  "media04": {
+    "file": "shared-assets/media/a-current-affair.png",
+    "url": "https://raw.githubusercontent.com/jgagraphicdesigner/appimages/main/positively-geared-funnel-2026-09/shared-assets/media/a-current-affair.png",
+    "bytes": 28074
+  },
+  "media05": {
+    "file": "shared-assets/media/the-morning-show.svg",
+    "url": "https://raw.githubusercontent.com/jgagraphicdesigner/appimages/main/positively-geared-funnel-2026-09/shared-assets/media/the-morning-show.svg",
+    "bytes": 6138
+  },
+  "media06": {
+    "file": "shared-assets/media/sky-news.svg",
+    "url": "https://raw.githubusercontent.com/jgagraphicdesigner/appimages/main/positively-geared-funnel-2026-09/shared-assets/media/sky-news.svg",
+    "bytes": 16722
+  },
+  "media07": {
+    "file": "shared-assets/media/sunrise.svg",
+    "url": "https://raw.githubusercontent.com/jgagraphicdesigner/appimages/main/positively-geared-funnel-2026-09/shared-assets/media/sunrise.svg",
+    "bytes": 4686
+  },
+  "media08": {
+    "file": "shared-assets/media/daily-mail-australia.svg",
+    "url": "https://raw.githubusercontent.com/jgagraphicdesigner/appimages/main/positively-geared-funnel-2026-09/shared-assets/media/daily-mail-australia.svg",
+    "bytes": 5472
+  },
+  "news": {
+    "file": "shared-assets/media/news.png",
+    "url": "https://raw.githubusercontent.com/jgagraphicdesigner/appimages/main/positively-geared-funnel-2026-09/shared-assets/media/news.png",
+    "bytes": 7671
+  },
+  "media10": {
+    "file": "shared-assets/media/the-property-tribune.svg",
+    "url": "https://raw.githubusercontent.com/jgagraphicdesigner/appimages/main/positively-geared-funnel-2026-09/shared-assets/media/the-property-tribune.svg",
+    "bytes": 10179
+  },
+  "realestate": {
+    "file": "shared-assets/media/realestate.png",
+    "url": "https://raw.githubusercontent.com/jgagraphicdesigner/appimages/main/positively-geared-funnel-2026-09/shared-assets/media/realestate.png",
+    "bytes": 3178
+  },
+  "media12": {
+    "file": "shared-assets/media/domain.png",
+    "url": "https://raw.githubusercontent.com/jgagraphicdesigner/appimages/main/positively-geared-funnel-2026-09/shared-assets/media/domain.png",
+    "bytes": 7520
+  },
+  "spi": {
+    "file": "shared-assets/media/spi.png",
+    "url": "https://raw.githubusercontent.com/jgagraphicdesigner/appimages/main/positively-geared-funnel-2026-09/shared-assets/media/spi.png",
+    "bytes": 11664
+  },
+  "media14": {
+    "file": "shared-assets/media/2gb.png",
+    "url": "https://raw.githubusercontent.com/jgagraphicdesigner/appimages/main/positively-geared-funnel-2026-09/shared-assets/media/2gb.png",
+    "bytes": 40582
+  },
+  "media15": {
+    "file": "shared-assets/media/money-magazine.jpg",
+    "url": "https://raw.githubusercontent.com/jgagraphicdesigner/appimages/main/positively-geared-funnel-2026-09/shared-assets/media/money-magazine.jpg",
+    "bytes": 18610
+  },
+  "media16": {
+    "file": "shared-assets/media/bay-fm.jpg",
+    "url": "https://raw.githubusercontent.com/jgagraphicdesigner/appimages/main/positively-geared-funnel-2026-09/shared-assets/media/bay-fm.jpg",
+    "bytes": 28106
+  },
+  "media17": {
+    "file": "shared-assets/media/switzer.png",
+    "url": "https://raw.githubusercontent.com/jgagraphicdesigner/appimages/main/positively-geared-funnel-2026-09/shared-assets/media/switzer.png",
+    "bytes": 59386
+  },
+  "media18": {
+    "file": "shared-assets/media/cio-look.png",
+    "url": "https://raw.githubusercontent.com/jgagraphicdesigner/appimages/main/positively-geared-funnel-2026-09/shared-assets/media/cio-look.png",
+    "bytes": 15866
+  },
+  "media19": {
+    "file": "shared-assets/media/canstar.png",
+    "url": "https://raw.githubusercontent.com/jgagraphicdesigner/appimages/main/positively-geared-funnel-2026-09/shared-assets/media/canstar.png",
+    "bytes": 18334
+  },
+  "media20": {
+    "file": "shared-assets/media/property-market-investor.jpg",
+    "url": "https://raw.githubusercontent.com/jgagraphicdesigner/appimages/main/positively-geared-funnel-2026-09/shared-assets/media/property-market-investor.jpg",
+    "bytes": 24870
+  },
+  "media21": {
+    "file": "shared-assets/media/business-view-oceania.png",
+    "url": "https://raw.githubusercontent.com/jgagraphicdesigner/appimages/main/positively-geared-funnel-2026-09/shared-assets/media/business-view-oceania.png",
+    "bytes": 26072
+  },
+  "media22": {
+    "file": "shared-assets/media/today-show.png",
+    "url": "https://raw.githubusercontent.com/jgagraphicdesigner/appimages/main/positively-geared-funnel-2026-09/shared-assets/media/today-show.png",
+    "bytes": 47952
+  },
+  "media23": {
+    "file": "shared-assets/media/the-savings-tip-jar.jpg",
+    "url": "https://raw.githubusercontent.com/jgagraphicdesigner/appimages/main/positively-geared-funnel-2026-09/shared-assets/media/the-savings-tip-jar.jpg",
+    "bytes": 57978
+  },
+  "media24": {
+    "file": "shared-assets/media/your-mortgage.svg",
+    "url": "https://raw.githubusercontent.com/jgagraphicdesigner/appimages/main/positively-geared-funnel-2026-09/shared-assets/media/your-mortgage.svg",
+    "bytes": 13492
+  },
+  "media25": {
+    "file": "shared-assets/media/nights-with-john-stanley.jpg",
+    "url": "https://raw.githubusercontent.com/jgagraphicdesigner/appimages/main/positively-geared-funnel-2026-09/shared-assets/media/nights-with-john-stanley.jpg",
+    "bytes": 2634
+  },
+  "media26": {
+    "file": "shared-assets/media/australian-property-investor.svg",
+    "url": "https://raw.githubusercontent.com/jgagraphicdesigner/appimages/main/positively-geared-funnel-2026-09/shared-assets/media/australian-property-investor.svg",
+    "bytes": 5999
+  },
+  "media27": {
+    "file": "shared-assets/media/ultra-106-five.png",
+    "url": "https://raw.githubusercontent.com/jgagraphicdesigner/appimages/main/positively-geared-funnel-2026-09/shared-assets/media/ultra-106-five.png",
+    "bytes": 11020
+  },
+  "media28": {
+    "file": "shared-assets/media/triple-m.png",
+    "url": "https://raw.githubusercontent.com/jgagraphicdesigner/appimages/main/positively-geared-funnel-2026-09/shared-assets/media/triple-m.png",
+    "bytes": 63279
+  },
+  "media29": {
+    "file": "shared-assets/media/the-joyful-frugalista.jpg",
+    "url": "https://raw.githubusercontent.com/jgagraphicdesigner/appimages/main/positively-geared-funnel-2026-09/shared-assets/media/the-joyful-frugalista.jpg",
+    "bytes": 63404
+  },
+  "media30": {
+    "file": "shared-assets/media/nine-com-au.png",
+    "url": "https://raw.githubusercontent.com/jgagraphicdesigner/appimages/main/positively-geared-funnel-2026-09/shared-assets/media/nine-com-au.png",
+    "bytes": 18520
+  },
+  "media31": {
+    "file": "shared-assets/media/dynamic-business.svg",
+    "url": "https://raw.githubusercontent.com/jgagraphicdesigner/appimages/main/positively-geared-funnel-2026-09/shared-assets/media/dynamic-business.svg",
+    "bytes": 466
+  },
+  "media32": {
+    "file": "shared-assets/media/the-latch.jpg",
+    "url": "https://raw.githubusercontent.com/jgagraphicdesigner/appimages/main/positively-geared-funnel-2026-09/shared-assets/media/the-latch.jpg",
+    "bytes": 6713
+  },
+  "media33": {
+    "file": "shared-assets/media/business-daily-media.jpg",
+    "url": "https://raw.githubusercontent.com/jgagraphicdesigner/appimages/main/positively-geared-funnel-2026-09/shared-assets/media/business-daily-media.jpg",
+    "bytes": 1586
+  },
+  "media34": {
+    "file": "shared-assets/media/realty-talk.jpg",
+    "url": "https://raw.githubusercontent.com/jgagraphicdesigner/appimages/main/positively-geared-funnel-2026-09/shared-assets/media/realty-talk.jpg",
+    "bytes": 27655
+  },
+  "media35": {
+    "file": "shared-assets/media/under-the-hammer.png",
+    "url": "https://raw.githubusercontent.com/jgagraphicdesigner/appimages/main/positively-geared-funnel-2026-09/shared-assets/media/under-the-hammer.png",
+    "bytes": 813010
+  },
+  "media36": {
+    "file": "shared-assets/media/abc-radio-national-the-money.jpg",
+    "url": "https://raw.githubusercontent.com/jgagraphicdesigner/appimages/main/positively-geared-funnel-2026-09/shared-assets/media/abc-radio-national-the-money.jpg",
+    "bytes": 26121
+  },
+  "media37": {
+    "file": "shared-assets/media/pizza-property.webp",
+    "url": "https://raw.githubusercontent.com/jgagraphicdesigner/appimages/main/positively-geared-funnel-2026-09/shared-assets/media/pizza-property.webp",
+    "bytes": 11274
+  },
+  "media38": {
+    "file": "shared-assets/media/radio-2rdj-fm.svg",
+    "url": "https://raw.githubusercontent.com/jgagraphicdesigner/appimages/main/positively-geared-funnel-2026-09/shared-assets/media/radio-2rdj-fm.svg",
+    "bytes": 65390
+  },
+  "media39": {
+    "file": "shared-assets/media/ritter-on-real-estate.jpg",
+    "url": "https://raw.githubusercontent.com/jgagraphicdesigner/appimages/main/positively-geared-funnel-2026-09/shared-assets/media/ritter-on-real-estate.jpg",
+    "bytes": 72862
+  },
+  "media40": {
+    "file": "shared-assets/media/real-estate-rundown.jpg",
+    "url": "https://raw.githubusercontent.com/jgagraphicdesigner/appimages/main/positively-geared-funnel-2026-09/shared-assets/media/real-estate-rundown.jpg",
+    "bytes": 92029
+  },
+  "media41": {
+    "file": "shared-assets/media/global-travel-media.png",
+    "url": "https://raw.githubusercontent.com/jgagraphicdesigner/appimages/main/positively-geared-funnel-2026-09/shared-assets/media/global-travel-media.png",
+    "bytes": 149595
+  },
+  "media42": {
+    "file": "shared-assets/media/your-investment-property.svg",
+    "url": "https://raw.githubusercontent.com/jgagraphicdesigner/appimages/main/positively-geared-funnel-2026-09/shared-assets/media/your-investment-property.svg",
+    "bytes": 11030
+  },
+  "media43": {
+    "file": "shared-assets/media/the-naked-property-investor.jpg",
+    "url": "https://raw.githubusercontent.com/jgagraphicdesigner/appimages/main/positively-geared-funnel-2026-09/shared-assets/media/the-naked-property-investor.jpg",
+    "bytes": 95234
+  },
+  "media44": {
+    "file": "shared-assets/media/allhomes.png",
+    "url": "https://raw.githubusercontent.com/jgagraphicdesigner/appimages/main/positively-geared-funnel-2026-09/shared-assets/media/allhomes.png",
+    "bytes": 6163
+  },
+  "media45": {
+    "file": "shared-assets/media/real-estate-talk.jpg",
+    "url": "https://raw.githubusercontent.com/jgagraphicdesigner/appimages/main/positively-geared-funnel-2026-09/shared-assets/media/real-estate-talk.jpg",
+    "bytes": 26846
+  },
+  "media46": {
+    "file": "shared-assets/media/home-beautiful.svg",
+    "url": "https://raw.githubusercontent.com/jgagraphicdesigner/appimages/main/positively-geared-funnel-2026-09/shared-assets/media/home-beautiful.svg",
+    "bytes": 14536
+  },
+  "award1": {
+    "file": "shared-assets/awards/award-1.png",
+    "url": "https://raw.githubusercontent.com/jgagraphicdesigner/appimages/main/positively-geared-funnel-2026-09/shared-assets/awards/award-1.png",
+    "bytes": 29965
+  },
+  "award2": {
+    "file": "shared-assets/awards/award-2.png",
+    "url": "https://raw.githubusercontent.com/jgagraphicdesigner/appimages/main/positively-geared-funnel-2026-09/shared-assets/awards/award-2.png",
+    "bytes": 14003
+  },
+  "award3": {
+    "file": "shared-assets/awards/award-3.png",
+    "url": "https://raw.githubusercontent.com/jgagraphicdesigner/appimages/main/positively-geared-funnel-2026-09/shared-assets/awards/award-3.png",
+    "bytes": 12372
+  },
+  "award4": {
+    "file": "shared-assets/awards/award-4.png",
+    "url": "https://raw.githubusercontent.com/jgagraphicdesigner/appimages/main/positively-geared-funnel-2026-09/shared-assets/awards/award-4.png",
+    "bytes": 10948
+  },
+  "award5": {
+    "file": "shared-assets/awards/award-5.png",
+    "url": "https://raw.githubusercontent.com/jgagraphicdesigner/appimages/main/positively-geared-funnel-2026-09/shared-assets/awards/award-5.png",
+    "bytes": 10635
+  },
+  "award6": {
+    "file": "shared-assets/awards/award-6.png",
+    "url": "https://raw.githubusercontent.com/jgagraphicdesigner/appimages/main/positively-geared-funnel-2026-09/shared-assets/awards/award-6.png",
+    "bytes": 13962
+  },
+  "award7": {
+    "file": "shared-assets/awards/award-7.jpg",
+    "url": "https://raw.githubusercontent.com/jgagraphicdesigner/appimages/main/positively-geared-funnel-2026-09/shared-assets/awards/award-7.jpg",
+    "bytes": 21644
+  },
+  "manrope": {
+    "file": "shared-assets/fonts/manrope.woff2",
+    "url": "https://raw.githubusercontent.com/jgagraphicdesigner/appimages/main/positively-geared-funnel-2026-09/shared-assets/fonts/manrope.woff2"
+  },
+  "inter": {
+    "file": "shared-assets/fonts/inter.woff2",
+    "url": "https://raw.githubusercontent.com/jgagraphicdesigner/appimages/main/positively-geared-funnel-2026-09/shared-assets/fonts/inter.woff2"
+  },
+  "mono": {
+    "file": "shared-assets/fonts/mono.woff2",
+    "url": "https://raw.githubusercontent.com/jgagraphicdesigner/appimages/main/positively-geared-funnel-2026-09/shared-assets/fonts/mono.woff2"
+  },
+  "interview": {
+    "file": "01-free-book/assets/lloyd-edge-morning-show-interview.jpg",
+    "url": "https://raw.githubusercontent.com/jgagraphicdesigner/appimages/main/positively-geared-funnel-2026-09/01-free-book/assets/lloyd-edge-morning-show-interview.jpg",
+    "width": 480,
+    "height": 360,
+    "bytes": 21995
+  }
+}

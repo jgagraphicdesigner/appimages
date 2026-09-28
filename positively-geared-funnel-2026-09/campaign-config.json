@@ -1,0 +1,27 @@
+{
+  "postage": 9,
+  "bump": {
+    "document": "2026 APP Property Intelligence Guide",
+    "price": null,
+    "selectedByDefault": false
+  },
+  "gift": {
+    "price": 7,
+    "books": [
+      "Positively Geared",
+      "Buy Now"
+    ]
+  },
+  "strategy": {
+    "price": 1697,
+    "name": "Your Next Move"
+  },
+  "calendar": "https://calendly.com/auspropertyprofessionals/discovery-call-wishlist-outstanding",
+  "facebook": "https://www.facebook.com/groups/580592219124241",
+  "videos": {
+    "book": "https://www.youtube.com/embed/eDsoL7rnWgU?rel=0",
+    "discovery": "https://storage.googleapis.com/msgsndr/v8WBIjPezNPecau8Wu8F/media/6911ad4e75ec1e159a4fe8ff.mp4",
+    "strategy": "https://storage.googleapis.com/msgsndr/v8WBIjPezNPecau8Wu8F/media/69142f7281165e7b6f261852.mp4",
+    "thanks": "https://assets.cdn.filesafe.space/v8WBIjPezNPecau8Wu8F/media/691f94df51f4008a5f4aa9e5.mp4"
+  }
+}
