@@ -45,8 +45,10 @@ All design images load from direct public raw.githubusercontent.com URLs in this
 - **shared-assets/fonts/**: Manrope, Inter and DM Mono from the existing site.
 - **01-free-book/assets/**: Property Intelligence Guide cover.
 - **03-surprise-gift/assets/**: Buy Now book cover.
+- **02-discovery-call/assets/**, **04-strategy-session/assets/** and **05-congratulations/assets/**: still frames from the corresponding Lloyd videos.
+- **_source/**: optional editable source and build instructions; not needed for GHL installation.
 
-The main book page uses the Morning Show YouTube interview already selected for the current APP landing page. It avoids the old two-book sales video because this page now offers one book. Other videos stream from the original funnel's public media hosting. Review their recorded wording before launch. Video players require an HTTP/HTTPS page; when opened as a file, the YouTube area shows a linked thumbnail instead of an Error 153 player. The thumbnail is hosted in GitHub.
+The main book page uses the Morning Show YouTube interview already selected for the current APP landing page. It avoids the old two-book sales video because this page now offers one book. Other videos stream from the original funnel's public media hosting using its smaller 720p encodes (approximately 18 MB each instead of 200–400 MB originals). The reused discovery, strategy and thank-you recordings include graphics for the old two-book offer. Replace or re-record these introductions for the new one-book campaign before launch. Their existing content has not been edited. Video players require an HTTP/HTTPS page; when opened as a file, the YouTube area shows a linked thumbnail instead of an Error 153 player. The thumbnail is hosted in GitHub.
 
 ## Design and behaviour
 
