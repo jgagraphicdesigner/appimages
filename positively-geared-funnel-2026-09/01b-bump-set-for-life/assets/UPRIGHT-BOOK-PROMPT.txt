@@ -1,0 +1,8 @@
+Generated with built-in image_gen. WebP preserves transparency.
+
+Use case: product-mockup.
+Asset type: isolated ecommerce book render for a landing page.
+Input images: Image 1 is the actual Set for Life front cover and must be preserved faithfully; image 2 is a supporting reference for a realistic standing book with visible page thickness, not for its design or colours.
+Create ONE high resolution product image of Lloyd Edge's SET FOR LIFE book standing perfectly upright, facing the camera, with vertical edges and a level bottom. No diagonal tilt or leaning. Mostly straight-on front, with only a narrow realistic page edge visible at the right to show this is a physical book. Keep the full cover in frame and reproduce the original cream, orange, blue and green artwork, typography, house symbol, proportions and every word exactly. The cover must read: SET / FOR / LIFE; USE PROPERTY TO BUILD WEALTH, CREATE FREEDOM AND LEAVE A LEGACY; LLOYD EDGE; Bestselling author of Positively Geared.
+Lighting: clean soft studio light, readable flat front with no glare, a gentle soft grey contact shadow immediately below the standing book and fading a little to the right. Do not create a shadow to one side of the entire book.
+Backdrop: genuinely transparent alpha background, including semitransparent contact shadow. No room, surface line, coloured rectangle, white backdrop, checkerboard pattern or text outside the book. Center the book with tight but comfortable transparent margins, roughly 82% of canvas height. Portrait composition. Keep original cover unchanged, no invented badges or claims, no other objects.
