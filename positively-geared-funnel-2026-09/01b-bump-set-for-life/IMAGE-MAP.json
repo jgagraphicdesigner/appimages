@@ -1,0 +1,33 @@
+{
+  "page": "Bump - Set for Life",
+  "localFolder": "01b-bump-set-for-life",
+  "campaign": "positively-geared-funnel-2026-09",
+  "assets": [
+    {
+      "file": "assets/set-for-life-front.webp",
+      "sha": "9c526f58dfd04f0c977d346ff305d181346e8e6d",
+      "url": "https://raw.githubusercontent.com/jgagraphicdesigner/appimages/main/positively-geared-funnel-2026-09/01b-bump-set-for-life/assets/set-for-life-front.webp"
+    },
+    {
+      "file": "assets/set-for-life-angle.webp",
+      "sha": "8fbe3e705ede3a39bf116fdc389c2095444b42ca",
+      "url": "https://raw.githubusercontent.com/jgagraphicdesigner/appimages/main/positively-geared-funnel-2026-09/01b-bump-set-for-life/assets/set-for-life-angle.webp"
+    },
+    {
+      "file": "assets/set-for-life-flat.webp",
+      "sha": "96d6386978c5c9b76af73ae3c4d34b77c9a80190",
+      "url": "https://raw.githubusercontent.com/jgagraphicdesigner/appimages/main/positively-geared-funnel-2026-09/01b-bump-set-for-life/assets/set-for-life-flat.webp"
+    },
+    {
+      "file": "assets/positively-geared-audiobook.webp",
+      "sha": "cc02ee7e5c65d7a7a4d5b71cb4cf871621f61e4b",
+      "url": "https://raw.githubusercontent.com/jgagraphicdesigner/appimages/main/positively-geared-funnel-2026-09/01b-bump-set-for-life/assets/positively-geared-audiobook.webp"
+    }
+  ],
+  "reusedAssets": [
+    "shared-assets/brand/aus-property-professionals-logo.webp",
+    "shared-assets/people/lloyd-edge-portrait.webp",
+    "shared-assets/fonts/manrope.woff2",
+    "shared-assets/fonts/inter.woff2"
+  ]
+}
