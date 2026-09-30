@@ -23,6 +23,13 @@
       "file": "assets/positively-geared-audiobook.webp",
       "sha": "cc02ee7e5c65d7a7a4d5b71cb4cf871621f61e4b",
       "url": "https://raw.githubusercontent.com/jgagraphicdesigner/appimages/main/positively-geared-funnel-2026-09/01b-bump-set-for-life/assets/positively-geared-audiobook.webp"
+    },
+    {
+      "file": "assets/positively-geared-audiobook-iphone.webp",
+      "sha": "9a23c121ae10943e6fe99c3d13974a03dc2c4c59",
+      "url": "https://raw.githubusercontent.com/jgagraphicdesigner/appimages/main/positively-geared-funnel-2026-09/01b-bump-set-for-life/assets/positively-geared-audiobook-iphone.webp",
+      "source": "iPhone-14-Plus-jgagraphicdesigner.github.io.png",
+      "usage": "Actual audiobook app mockup in the combined package and audiobook details section"
     }
   ],
   "reusedAssets": [
@@ -41,7 +48,12 @@
     ],
     "printedBook": "assets/set-for-life-front.webp",
     "audiobookCover": "shared-assets/books/positively-geared-updated.png",
-    "badge": "FREE AUDIOBOOK, attached only to the Positively Geared audio player",
-    "rendering": "HTML and CSS group showing both products together; no new raster composite required"
-  }
+    "badge": "FREE AUDIOBOOK on the Positively Geared phone image only.",
+    "rendering": "Actual supplied audiobook phone image beside the Set for Life printed book. Large AUDIOBOOK label and headphone icon. Centred layout based on the Positively Geared page.",
+    "audiobookImage": "assets/positively-geared-audiobook-iphone.webp"
+  },
+  "sharedCredibilitySections": [
+    "shared-assets/media/",
+    "shared-assets/awards/"
+  ]
 }
